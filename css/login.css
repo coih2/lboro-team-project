@@ -22,7 +22,7 @@ body {
   display: flex;
   flex-direction: column;
   padding: 10px;
-  gap: 0.5em;
+  gap: 0.6em;
 }
 
 .login-title {
